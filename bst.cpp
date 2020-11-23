@@ -1,6 +1,4 @@
-      //Abhigyan's Code:
-             
-      //You DON'T DARE TO COPY :) 
+
 
       #include<bits/stdc++.h>
       using namespace std;
